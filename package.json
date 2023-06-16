@@ -1,0 +1,30 @@
+{
+  "name": "niti.ai",
+  "version": "1.0.0",
+  "description": "SETU Account Aggregator API Integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "serve": "nodemon ./src/server.js",
+    "test": "npm test"
+  },
+  "keywords": [
+    "Account",
+    "Aggregator",
+    "Financial",
+    "Information"
+  ],
+  "author": "Harshit Nigam",
+  "license": "ISC",
+  "dependencies": {
+    "all": "^0.0.0",
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "find-config": "^1.0.0",
+    "node-fetch": "^3.3.1",
+    "nodemon": "^2.0.22"
+  }
+}
