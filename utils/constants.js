@@ -1,2 +1,0 @@
-const CLIENT_ID = '255d0b6c-492d-44cf-8581-e9494c7b0914';
-const CLIENT_SECRET = '9c2fc756-3d17-46d6-b28d-be4d71953e83';
